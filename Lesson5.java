@@ -58,6 +58,6 @@
                  "\n- Phone:" + phone +
                  "\n- Salary:" + salary +
                  "\n- Age:" + age );
- }
+     }
 
 }
